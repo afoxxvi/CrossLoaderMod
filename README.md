@@ -59,3 +59,9 @@ Edit mixin config in fabric.mod.json
 ### Neoforge
 
 Edit mixin config in mods.toml
+
+## Note
+
+While changing the minecraft version, the only file you need to modify is gradle.properties.
+
+There are no neoforge module until Minecraft 1.20.2, ignore the gradle project of neoforge if you are using Minecraft 1.20.1 or below.
